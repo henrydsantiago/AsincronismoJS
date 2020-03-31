@@ -1,0 +1,24 @@
+{
+  "name": "asincronismo",
+  "version": "1.0.0",
+  "description": "Curso de asincronismo con JS",
+  "main": "callbacks.js",
+  "scripts": {
+    "callback": "node callabacks/callbacks.js",
+    "callback:challenge": "node callbacks/challenge.js",
+    "promises": "node promises/promises.js",
+    "promises:challenge": "node promises/challenge.js",
+    "async": "node async/async.js",
+    "async:challenge": "node async/challenge.js"
+  },
+  "keywords": [
+    "callbacks",
+    "promise",
+    "async"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
